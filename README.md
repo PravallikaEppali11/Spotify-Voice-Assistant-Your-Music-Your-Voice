@@ -1,6 +1,6 @@
-# Spotify-Voice-Assistant-Your-Music-Your-Voice
+## Spotify-Voice-Assistant-Your-Music-Your-Voice
 Spotify Voice Assistant is a virtual assistant designed to interact with the Spotify music streaming service through voice commands. This type of assistant allows users to control their music playback and access various features of Spotify without needing to use manual controls or navigate through the app.
-# # # Voice Commands
+### Voice Commands:
 1. Open Spotify
 2. open devotional songs
 3. open telugu songs
