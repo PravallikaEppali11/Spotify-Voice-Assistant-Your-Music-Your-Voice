@@ -13,3 +13,12 @@ Spotify Voice Assistant is a virtual assistant designed to interact with the Spo
 10. Open my playlist
 11. Open dj songs
 12. Open hanuman songs
+13. Open happy songs
+14. Open bhajana songs
+15. Open relaxing songs
+16. Open workout songs
+17. Open party songs
+18. Open punjabi songs
+19. Open cooking songs
+20. Open k-pop songs
+
