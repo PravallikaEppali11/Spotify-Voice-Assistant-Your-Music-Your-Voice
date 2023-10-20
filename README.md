@@ -4,7 +4,7 @@ Spotify Voice Assistant is a virtual assistant designed to interact with the Spo
 1. Open Spotify
 2. Open devotional songs
 3. Open telugu songs
-4. I am sleepy
+4. Open sleepy songs
 5. Open travelling songs
 6. Open hindi sad songs
 7. Open telugu sad songs
@@ -21,4 +21,6 @@ Spotify Voice Assistant is a virtual assistant designed to interact with the Spo
 18. Open punjabi songs
 19. Open cooking songs
 20. Open k-pop songs
+21. Open english songs
+22. Open hindi songs
 
